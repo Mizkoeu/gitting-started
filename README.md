@@ -3,28 +3,28 @@ Fill in the text below with your own answers to each question. Each person in yo
 
 ## About You
 What are your names as they appear on the class roster?
-> ...
+> Tianhao Zou
 
 What do you prefer to be called?
-> ...
+> Mike
 
 What are your GitHub usernames?
-> ...
+> Mizkoeu
 
 Why are you taking this course?
-> ...
+> I'd like to learn more about how OS manages different processes at the same time and how the user interacts with the kernel.
 
 Do you have any concerns about this course?
-> ...
+> C.
 
 Look over the course schedule page. Which scheduled topics look most interesting to you?
-> ...
+> Concurrency
 
 Do you have any questions about the course?
-> ...
+> Not yet.
 
 Do you have any other questions for me?
-> ...
+> Nope
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
