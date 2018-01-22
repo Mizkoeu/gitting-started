@@ -5,26 +5,42 @@ Fill in the text below with your own answers to each question. Each person in yo
 What are your names as they appear on the class roster?
 > Tianhao Zou
 
+> Jonathan
+
 What do you prefer to be called?
 > Mike
+
+> Jonathan
 
 What are your GitHub usernames?
 > Mizkoeu
 
+> plagioclasefeldspar
+
 Why are you taking this course?
 > I'd like to learn more about how OS manages different processes at the same time and how the user interacts with the kernel.
+
+> It seemed fun. Also, I need it for the major.
 
 Do you have any concerns about this course?
 > C.
 
+> We'll see. It might not be as fun as I hope.
+
 Look over the course schedule page. Which scheduled topics look most interesting to you?
 > Concurrency
+
+> GPUs, Multiprocessor Scheduling, Garbage Collection, Distributed Systems
 
 Do you have any questions about the course?
 > Not yet.
 
+> No.
+
 Do you have any other questions for me?
 > Nope
+
+> What is the meaning of life? What is our purpose?
 
 ## About this course
 You can work together to submit one set of answers to these questions where appropriate. Refer to the [course syllabus](http://www.cs.grinnell.edu/~curtsinger/teaching/2018S/CSC213/syllabus/) for course policies.
