@@ -59,6 +59,7 @@ What happens if you miss a day of class because you are sick or your alarm doesn
 
 What happens if you turn in a lab late?
 > "Labs will be penalized one full letter grade (10%) for each day they are late."
+> "Late projects and proposals will not be accepted."
 
 On what day will you give a presentation on your final project for this course?
 > May 18, 2018
@@ -67,4 +68,6 @@ Where can you find our course textbook?
 > [Here](http://pages.cs.wisc.edu/~remzi/OSTEP/)
 
 When are you free during my scheduled office hours?
-> From 4:00-4:30 on Wenesday and Friday.
+> Mon 10:00-11:00 Wed 4:15 Fri 3:00-4:15. (Mike)
+
+> From 4:00-4:30 on Wenesday and Friday. (Jonathan)
