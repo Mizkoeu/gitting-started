@@ -59,6 +59,7 @@ What happens if you miss a day of class because you are sick or your alarm doesn
 
 What happens if you turn in a lab late?
 > "Labs will be penalized one full letter grade (10%) for each day they are late."
+
 > "Late projects and proposals will not be accepted."
 
 On what day will you give a presentation on your final project for this course?
