@@ -54,6 +54,8 @@ What work will contribute to your grade in this class?
 > <dt>Labs</dt><dd>50%</dd>
 > </dl>"
 
+> --- from the CSC213 course website
+
 What happens if you miss a day of class because you are sick or your alarm doesn't go off?
 > If you miss a normal class day, you will have more work and let down your group-mates. If you miss a lab day, then by default you will get a 20% penalty on that day's lab *unless* you are sick and provide documentation from SHACS.
 
